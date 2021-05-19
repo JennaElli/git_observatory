@@ -3,3 +3,6 @@
 - Lyot stop
 - detector optics
 - detector
+
+
+- change to the file
